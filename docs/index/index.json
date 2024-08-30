@@ -1,0 +1,1 @@
+{"includedArchiveIdentifiers":["Some"],"interfaceLanguages":{"swift":[{"children":[{"path":"\/documentation\/some\/error","title":"var error: some Error & Hashable","type":"var"}],"path":"\/documentation\/some","title":"Some","type":"module"}]},"schemaVersion":{"major":0,"minor":1,"patch":2}}
